@@ -1,0 +1,30 @@
+{
+  "name": "open-keep-clone",
+  "version": "1.0.0",
+  "description": "A hyper-lightweight, self-hosted replacement for Google Keep. Designed for data sovereignty, low memory environments, and real-time collaboration.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suanzy/open-keep-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suanzy/open-keep-clone/issues"
+  },
+  "homepage": "https://github.com/suanzy/open-keep-clone#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.1.1",
+    "socket.io": "^4.8.3",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
