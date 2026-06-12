@@ -17,7 +17,7 @@ A lightweight, self-hosted replacement for Google Keep. Designed for data sovere
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/suanzy/KeepLite.git
-   cd open-keep-clone
+   cd KeepLite
    ```
 2. **Install dependencies:**
 	```bash
