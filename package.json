@@ -1,5 +1,5 @@
 {
-  "name": "open-keep-clone",
+  "name": "keeplite",
   "version": "1.0.0",
   "description": "A hyper-lightweight, self-hosted replacement for Google Keep. Designed for data sovereignty, low memory environments, and real-time collaboration.",
   "main": "server.js",

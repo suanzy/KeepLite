@@ -1,4 +1,4 @@
-# Open Keep Clone
+# KeepLite
 
 A lightweight, self-hosted replacement for Google Keep. Designed for data sovereignty, low memory environments, and real-time collaboration.
 
