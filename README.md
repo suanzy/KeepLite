@@ -43,9 +43,3 @@ All user data is strictly confined to two directories:
 1. `data/database.sqlite` (Notes and text)
 2. `public/uploads/` (Images)
 To back up your notes securely, you only need to sync the data/ and public/uploads/ directories using your preferred CLI synchronization tool.
-
-## Mobile Quick Capture (Progressive Web App)
-To mimic native widget functionality on a mobile device:
-1. Navigate to the application URL on your mobile browser.
-2. Select "Add to Home Screen" from the browser menu.
-3. The application will function as a standalone, full-screen app for immediate quick capture.
